@@ -1,4 +1,4 @@
-# Content-Based-Movies-Recommender-System
+# Content Based Movies Recommender System
 
 ![image](https://user-images.githubusercontent.com/96568994/150975772-a5b18351-7b23-4f13-b9c4-da7cca217615.png)
 
