@@ -1,0 +1,4 @@
+********************import Pickle to dump file************************
+import pickle as pkl
+pkl.dump(new_df,open('movies.pkl','wb'))
+pkl.dump(Similarity,open('similarity.pkl','wb'))
